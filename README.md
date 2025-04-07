@@ -1,6 +1,7 @@
 # NOMNON25116_FTO2525_A2_Nomsa-Nongcula_SDF_Portfolio_Piece
-               Nomsa Nongcula - portfolio
 
+https://www.veed.io/edit/3a1fb11b-3486-4ff2-a77d-4b775aaf33fa
+               Nomsa Nongcula - portfolio
 
 Welcome to my personal portfolio! This is website showcase my skills, projects, education, and tools i used as an aspiring developer.
 
